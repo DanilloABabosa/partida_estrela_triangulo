@@ -1,6 +1,6 @@
 COM=COM5
 BAUDRATE=115200
-PROJECT=avr_sinalizador_garagem
+PROJECT=partida_estrele_triangulo
 DEVICE=ATmega328P
 
 CC_PATH="C:\Program Files\Microchip\xc8\v2.45\bin"
